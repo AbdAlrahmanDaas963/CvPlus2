@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CvPlus2/static/css/main.fc3b8dbc.chunk.css",
+    "main.css": "/CvPlus2/static/css/main.9c0b5d97.chunk.css",
     "main.js": "/CvPlus2/static/js/main.f1c99706.chunk.js",
     "main.js.map": "/CvPlus2/static/js/main.f1c99706.chunk.js.map",
     "runtime-main.js": "/CvPlus2/static/js/runtime-main.9d5079b3.js",
@@ -10,7 +10,7 @@
     "static/js/3.1bdbb292.chunk.js": "/CvPlus2/static/js/3.1bdbb292.chunk.js",
     "static/js/3.1bdbb292.chunk.js.map": "/CvPlus2/static/js/3.1bdbb292.chunk.js.map",
     "index.html": "/CvPlus2/index.html",
-    "static/css/main.fc3b8dbc.chunk.css.map": "/CvPlus2/static/css/main.fc3b8dbc.chunk.css.map",
+    "static/css/main.9c0b5d97.chunk.css.map": "/CvPlus2/static/css/main.9c0b5d97.chunk.css.map",
     "static/js/2.35609aab.chunk.js.LICENSE.txt": "/CvPlus2/static/js/2.35609aab.chunk.js.LICENSE.txt",
     "static/media/myImgCut.97045446.png": "/CvPlus2/static/media/myImgCut.97045446.png",
     "static/media/index.css": "/CvPlus2/static/media/photo_2021-07-14_15-22-59.39beed49.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d5079b3.js",
     "static/js/2.35609aab.chunk.js",
-    "static/css/main.fc3b8dbc.chunk.css",
+    "static/css/main.9c0b5d97.chunk.css",
     "static/js/main.f1c99706.chunk.js"
   ]
 }
